@@ -1,0 +1,14 @@
+body {
+    font-family: 'JetBrains Mono' !important;
+}
+.container {
+    width: 28rem;
+}
+
+.btn {
+    width: 22rem;
+}
+
+.your {
+    width: 22rem;
+}
